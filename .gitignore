@@ -1,0 +1,8 @@
+*.o
+*.tgt
+*.out
+*~
+.*.un~
+*.swp
+*.tmp
+*.old
